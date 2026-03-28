@@ -35,22 +35,16 @@ python main.py
 
 1. Select a **source** language by number
 2. Select a **target** language by number
-3. Type any text (up to 500 characters) to translate
+
 
 
 <img width="628" height="473" alt="Screenshot 2026-03-25 002331" src="https://github.com/user-attachments/assets/33f70c5c-a5ae-411c-860e-1a1d61a5e0db" />
 <img width="632" height="694" alt="Screenshot 2026-03-25 002423" src="https://github.com/user-attachments/assets/0e7d8ea3-c119-4f6f-b232-cc9486d30477" />
+
+3. Type any text (up to 500 characters) to translate
 <img width="648" height="735" alt="Screenshot 2026-03-25 002440" src="https://github.com/user-attachments/assets/ef566606-5b55-45f6-a807-8eb84384bc29" />
 <img width="617" height="355" alt="Screenshot 2026-03-25 002457" src="https://github.com/user-attachments/assets/3643fb52-52a9-4e85-bc0c-b39d30140ae3" />
 
-
-### Commands
-
-| Command  | Description                        |
-|----------|------------------------------------|
-| `switch` | Swap source and target languages   |
-| `langs`  | Change the language pair           |
-| `quit`   | Exit the program                   |
 
 ## Example
 
